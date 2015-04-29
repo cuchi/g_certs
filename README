@@ -1,6 +1,6 @@
 ### Gerador de Certificados ###
 
-O arquivo tenplate.svg pode ser editado com o inkscape, desde que os
+O arquivo template.svg pode ser editado com o inkscape, desde que os
 campos de texto não sejam alterados.
 
 As informações do evento são colocadas no início do arquivo g_certs.sh
